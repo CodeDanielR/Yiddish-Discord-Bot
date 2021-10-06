@@ -1,4 +1,6 @@
 **Yiddish Discord Bot**
 <hr>
-*How to use?*
+<br>
+**How to use?**
+<br>
 Edit your bot settings in `config.json` and run your bot!
